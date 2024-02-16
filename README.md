@@ -1,7 +1,6 @@
-### Hi there! 👋 I'm Joey
+### Hi there! I'm Joey
 
-- ⚡️ I'm software engineer with a passion for **systems software** and **computer security**. 
-- 🔒 My day job is working on [Cloudflare Gateway](https://blog.cloudflare.com/tag/gateway/)
-- 🌱 I’m currently trying to learn kernel networking development and embedded rust.
-- 💬 Talk with me about lifelong learning, the growth mindset, diversity bonuses, and making engineering inclusive to all.
-- 😄 Pronouns: He/Him.
+- I'm software engineer with a passion for **systems software** and **computer security**. 
+- My day job is working on [Cloudflare Gateway](https://blog.cloudflare.com/tag/gateway/). At work I'm focused on all things Rust, Go, and Linux.
+- I’m also currently trying to learn kernel networking development and embedded rust.
+- Pronouns: He/Him.
